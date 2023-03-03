@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "opay-python"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
-  { name="isaacrobert33", email="isaacrobertoluwaseun@gmail.com" },
+  { name="Isaac Robert", email="isaacrobertoluwaseun@gmail.com" },
 ]
-description = "A Python client for OPay API"
+description = "A Python client for the OPay API"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
