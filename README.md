@@ -17,12 +17,6 @@ want to use the package, just run:
 pip install --upgrade opay-python
 ```
 
-Install from source with:
-
-```sh
-python setup.py install
-```
-
 ### Requirements
 
 -   Python 3.7+
